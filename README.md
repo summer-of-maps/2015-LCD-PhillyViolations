@@ -35,7 +35,7 @@ Each record has 27 descriptive data fields. Data fields may not be available for
 26. UnitNumber (Integer): For apartments, the specific apartment in which the violation occurred
 27. Ward (Integer): The city ward in which the violation occurred
 
-~~~~~~~~~~~~~~~~~~
+
 
 This repo is a result of data analysis completed as part of the Summer of Maps Program. This work was completed in support of a pro bono project with the Legal Clinic for the Disabled.
 
