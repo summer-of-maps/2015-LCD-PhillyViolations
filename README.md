@@ -35,6 +35,8 @@ Each record has 27 descriptive data fields. Data fields may not be available for
 26. UnitNumber (Integer): For apartments, the specific apartment in which the violation occurred
 27. Ward (Integer): The city ward in which the violation occurred
 
+~~~~~~~~~~~~~~~~~~
+
 This repo is a result of data analysis completed as part of the Summer of Maps Program. This work was completed in support of a pro bono project with the Legal Clinic for the Disabled.
 
 Summer of Maps is a fellowship program organized and facilitated by Azavea. Azavea is a B Corporation that specializes in civic-minded GIS software development and spatial analysis. Summer of Maps offers stipends to student spatial analysts to perform data analysis and visualization for non-profit organizations. Every year we match up non-profit organizations that have spatial analysis needs with talented students to implement projects over a three-month period during the summer.
