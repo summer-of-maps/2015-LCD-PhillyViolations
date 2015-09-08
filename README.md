@@ -3,7 +3,7 @@ All violations from the Licences and Inspections database in one place. The data
 
 In total, 1,077,623 violations were successfully extracted from the Licenses and Inspections database. Each violation is linked to a L&I case, as well as to a location. The extracted violations could be grouped into 368,574 unique cases, or 157,350 unique locations.
 
-The data is formatted in 12 comma-separated value (CSV) files. Each CSV file contains approximately 89,800 records, small enough to be opened in most spreadsheet editors.
+The data can be accessed as three large files or as 12 smaller files, depending on the user's software constraints. Users with newer versions of Microsoft Excel should download the three comma-separated value (CSV) files in the folder "Violations_split_3," which contain approximately 360,000 records each. Users with older versions of Microsoft Excel or free spreadsheet software should download the 12 CSV files in the "Violations_split_12" folder, which contain approximately 90,000 records each.
 
 Each record has 27 descriptive data fields. Data fields may not be available for each database record: in that case, the field for that record is listed as "None." The fields are as follows:
 
